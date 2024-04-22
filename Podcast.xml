@@ -22,7 +22,7 @@
       <itunes:title>Episode 1: Introduction</itunes:title>
       <itunes:author>Your Name</itunes:author>
       <itunes:summary>An introduction to the podcast.</itunes:summary>
-      <enclosure url="https://pscrb.fm/rss/p/chrt.fm/track/53A61E/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/ec4a7a92-e17b-4c61-b8eb-d06d401c2e88/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&amp;awEpisodeId=ec4a7a92-e17b-4c61-b8eb-d06d401c2e88&amp;feed=EmVW7VGp" length="1234567" type="audio/mpeg" />
+      <enclosure url="https://pscrb.fm/rss/p/chrt.fm/track/53A61E/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/9dcee195-80cb-47d6-b1bb-0a49bed8cf7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=9dcee195-80cb-47d6-b1bb-0a49bed8cf7d&feed=EmVW7VGp" length="1234567" type="audio/mpeg" />
       <guid>http://www.example.com/podcast/episode1</guid>
       <pubDate>Sun, 04 Apr 2024 12:00:00 GMT</pubDate>
     </item>
