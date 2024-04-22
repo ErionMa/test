@@ -13,8 +13,8 @@
     </itunes:owner>
     <itunes:image href="http://www.example.com/podcast-image.jpg" />
     <itunes:category text="Technology">
-      <itunes:category text="Software How-To" />
-    </itunes:category>
+  <itunes:category text="Software How-To" />
+</itunes:category>
 
 
     <!-- Example episode -->
